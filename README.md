@@ -2,7 +2,30 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.8.
 
-## Development server
+## Prerequisites
+
+Before running this application, make sure you have the following installed:
+
+- **[Node.js](https://nodejs.org/)** (version 14 or later)
+- **[Angular CLI](https://angular.io/cli)** (version 18.2.8 or later)
+
+If Angular CLI is not installed, you can install it globally using the following command:
+```bash
+npm install -g @angular/cli
+
+## Getting Start
+
+Clone the repository to your local machine using the following command:
+```bash
+git clone https://github.com/csy2617/contacts-app.git
+
+## Install Dependencies
+Navigate to the project directory and install the required dependencies:
+```bash
+cd ContactsApp
+npm install
+
+## Run the Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
